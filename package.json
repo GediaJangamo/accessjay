@@ -1,0 +1,20 @@
+{
+  "name": "accessjay",
+  "version": "1.0.0",
+  "description": "Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) da estudante Gédia Jangamo, no curso de Engenharia de Tecnologias e Sistemas de Informação. Universidade Joaquim Chissano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GediaJangamo/accessjay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GediaJangamo/accessjay/issues"
+  },
+  "homepage": "https://github.com/GediaJangamo/accessjay#readme"
+}
