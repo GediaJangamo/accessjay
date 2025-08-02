@@ -13,9 +13,9 @@ AccessJay é um plugin de acessibilidade universal, desenvolvido para promover a
 
 ## O que este plugin faz?
 
-1.Navegação por Voz
-Permite aceder a páginas ou funcionalidades do sistema através de comandos falados.
-Exemplo: "abrir perfil", "ver notas", "fazer matrícula".
+  1.Navegação por Voz
+  Permite aceder a páginas ou funcionalidades do sistema através de comandos falados.
+  Exemplo: "abrir perfil", "ver notas", "fazer matrícula".
 
 2. Leitura de Ecrã (Screen Reader)
 Usa síntese de voz para ler os conteúdos da página, auxiliando estudantes com cegueira total ou baixa visão.
